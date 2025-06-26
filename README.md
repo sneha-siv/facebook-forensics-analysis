@@ -28,7 +28,6 @@ This project documents a forensic investigation of the Facebook APK as part of m
 ## 📁 Contents
 
 - `Facebook_Forensics_Report.pdf` — Full report with screenshots and findings
-- `screenshots/` — (Optional) Visuals of tools, emulator logs, and APK structure
 
 ---
 
